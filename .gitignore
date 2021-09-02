@@ -1,2 +1,3 @@
+.forms/
 forms/
-contact.php
+*.forms
